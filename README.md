@@ -1,5 +1,5 @@
 # Discord-Hack
-This is  a script for an Discord Bot which can give you any roll on every server. I wouldt watch this Video: https://www.youtube.com/watch?v=j_sD9udZnCk&amp;t            The Bot need to be at the top of the roll list and you need to change the roll id ! You find the Roll number when you type \@(roll)                  Only paste the numbers!!!!  
+This is  a script for an Discord Bot which can give you any roll on every server. I would watch this Video: https://www.youtube.com/watch?v=j_sD9udZnCk&amp;t            The Bot need to be at the top of the roll list and you need to change the roll id ! You find the Roll number when you type \@(roll)                  Only paste the numbers!!!!  
 You need to delete Your Main.js and set in the new one.
 Then You need to make a folder called "Commands" and drag Twitch.js,   Partner.js,     notbremse.js !!!!!!
 You need to fill in the roll id in the spaces at notbremse
